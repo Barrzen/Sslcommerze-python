@@ -1,0 +1,12 @@
+astroid==2.12.4
+certifi==2022.6.15
+chardet==5.0.0
+idna==3.3
+isort==5.10.1
+lazy-object-proxy==1.7.1
+mccabe==0.7.0
+requests==2.28.1
+six==1.16.0
+typed-ast==1.5.4
+urllib3==1.26.12
+wrapt==1.14.1
